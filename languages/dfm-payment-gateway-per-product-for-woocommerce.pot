@@ -1,0 +1,168 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Payment gateway per Product for WooCommerce\n"
+"POT-Creation-Date: 2024-02-05 12:47+0100\n"
+"PO-Revision-Date: 2024-02-05 12:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-product-payments.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: inc/per_categories.php:5 inc/per_tags.php:5
+msgid "Enable/Disable"
+msgstr ""
+
+#: inc/per_categories.php:10 inc/per_tags.php:10
+msgid "Enable section"
+msgstr ""
+
+#: inc/per_categories.php:30 inc/per_tags.php:30
+msgid "Include"
+msgstr ""
+
+#: inc/per_categories.php:43 inc/per_tags.php:43
+msgid "Exclude"
+msgstr ""
+
+#: inc/quick_bulk_edit_patch__premium_only.php:17
+#: inc/quick_bulk_edit_patch__premium_only.php:53
+msgid "Payment"
+msgstr ""
+
+#: woocommerce-product-payments.php:123 woocommerce-product-payments.php:124
+#: woocommerce-product-payments.php:135 woocommerce-product-payments.php:136
+msgid "Product Payment"
+msgstr ""
+
+#: woocommerce-product-payments.php:513
+msgid "Woocommerce Product Payments"
+msgstr ""
+
+#: woocommerce-product-payments.php:581
+msgid "Woocommerce Product Payments - Information"
+msgstr ""
+
+#: woocommerce-product-payments.php:611
+msgid "Woocommerce Product Payments - Settings"
+msgstr ""
+
+#: woocommerce-product-payments.php:636
+msgid "Default Payment option( If not match any.)"
+msgstr ""
+
+#: woocommerce-product-payments.php:660
+msgid "If in some case payment option not show then this will default one set"
+msgstr ""
+
+#: woocommerce-product-payments.php:673
+msgid "Woocommerce Product Payments - Per Categories"
+msgstr ""
+
+#: woocommerce-product-payments.php:686
+msgid "Woocommerce Product Payments - Per Tags"
+msgstr ""
+
+#: woocommerce-product-payments.php:705
+msgid "Woocommerce Product Payments - Newsletter"
+msgstr ""
+
+#: woocommerce-product-payments.php:717
+msgid "Woocommerce Product Payments - FAQ"
+msgstr ""
+
+#: woocommerce-product-payments.php:720
+msgid "Looking for help?"
+msgstr ""
+
+#: woocommerce-product-payments.php:731
+#, php-format
+msgid ""
+"If your answer can not be found in the resources listed above, please use "
+"our supportsystem <a href=\"%s\">here</a>."
+msgstr ""
+
+#: woocommerce-product-payments.php:745
+msgid "Woocommerce Product Payments - Support Form"
+msgstr ""
+
+#: woocommerce-product-payments.php:756 woocommerce-product-payments.php:761
+msgid "Name"
+msgstr ""
+
+#: woocommerce-product-payments.php:775 woocommerce-product-payments.php:780
+msgid "Email"
+msgstr ""
+
+#: woocommerce-product-payments.php:792 woocommerce-product-payments.php:797
+#: woocommerce-product-payments.php:813
+msgid "Plugin Name"
+msgstr ""
+
+#: woocommerce-product-payments.php:808
+msgid "Version Number"
+msgstr ""
+
+#: woocommerce-product-payments.php:827 woocommerce-product-payments.php:832
+msgid "License"
+msgstr ""
+
+#: woocommerce-product-payments.php:846 woocommerce-product-payments.php:851
+msgid "Details of Problem"
+msgstr ""
+
+#: woocommerce-product-payments.php:878
+msgid "Woocommerce Product Payments - Dreamfox Media Plugins"
+msgstr ""
+
+#: woocommerce-product-payments.php:987
+msgid "Deactivate"
+msgstr ""
+
+#: woocommerce-product-payments.php:995
+msgid "Activate"
+msgstr ""
+
+#: woocommerce-product-payments.php:1011
+msgid "Install"
+msgstr ""
+
+#: woocommerce-product-payments.php:1027
+msgid "Purchase"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Payment gateway per Product for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://www.dreamfoxmedia.com/project/woocommerce-payment-gateway-per-"
+"product-premium/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Extend WooCommerce plugin to add different payments methods to a product"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Dreamfox"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "www.dreamfoxmedia.com"
+msgstr ""
